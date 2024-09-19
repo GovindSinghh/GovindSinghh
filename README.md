@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @GovindSingh
-- 👀 I’m interested in Blockchain and Web Development
-- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me singhgovind1202@gmail.com
 
 <!---
