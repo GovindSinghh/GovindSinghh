@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GovindSingh
 - 📫 How to reach me singhgovind1202@gmail.com
+- Passionate for Open-source Contributions
 
 <!---
 GovindSinghh/GovindSinghh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
