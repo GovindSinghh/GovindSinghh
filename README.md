@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GovindSingh
 - 📫 How to reach me singhgovind1202@gmail.com
-- Currently working on blockchain
+- Currently working on Solana ecosystem
 - Passionate for Open-source Contributions
 
 <!---
