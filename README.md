@@ -4,20 +4,16 @@ Welcome to my GitHub profile! I'm a **student** passionate about building innova
 
 ---
 
-## 🚀 Top Projects
+## 🌱 What I'm Learning
 
-- [Chess-Arena](https://github.com/GovindSinghh/Chess-Arena) – Real-time multiplayer chess platform
-- [SolClutchBot](https://github.com/GovindSinghh/SolClutchBot) – Automated trading bot for Solana ecosystem
-- [NetflixClone](https://github.com/GovindSinghh/NetflixClone) – A full-stack clone of Netflix with dynamic features
-- [DApp_practice](https://github.com/GovindSinghh/DApp_practice) – Experiments with decentralized applications
-- [GovindSinghh](https://github.com/GovindSinghh/GovindSinghh) – My personal portfolio and profile
+I'm always exploring new technologies and frameworks, recently focusing on blockchain, full-stack development, and AI integrations.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,solidity,nodejs,express,python,cpp,git,github,postgresql,mongodb,tailwind,redux,docker,graphql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,solidity,nodejs,express,git,github,postgresql,mongodb,tailwind,docker,rabbitmq" alt="Tech Stack" />
 </p>
 
 ---
@@ -36,22 +32,3 @@ Welcome to my GitHub profile! I'm a **student** passionate about building innova
   <img src="https://ghchart.rshah.org/GovindSinghh" alt="GitHub Contribution Chart" />
 </p>
 
----
-
-## 🌱 What I'm Learning
-
-I'm always exploring new technologies and frameworks, recently focusing on blockchain, full-stack development, and AI integrations.
-
-## ⚡ Fun Fact
-
-I love turning ideas into reality and believe in lifelong learning.
-
----
-
-### 💡 Let's make this README truly yours!
-
-To further personalize your profile, could you share:
-- Your top technical skills or favorite technologies
-- Any favorite project you'd like highlighted
-- Social links (LinkedIn, Twitter, personal website, etc.)
-- Any hobbies, interests, or fun facts you'd like to include
